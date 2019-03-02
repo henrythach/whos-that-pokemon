@@ -1,0 +1,18 @@
+{
+  "main.css": "/whos-that-pokemon/static/css/main.e727babd.chunk.css",
+  "main.js": "/whos-that-pokemon/static/js/main.0a6c2b13.chunk.js",
+  "main.js.map": "/whos-that-pokemon/static/js/main.0a6c2b13.chunk.js.map",
+  "runtime~main.js": "/whos-that-pokemon/static/js/runtime~main.802c3057.js",
+  "runtime~main.js.map": "/whos-that-pokemon/static/js/runtime~main.802c3057.js.map",
+  "static/js/2.d05661ab.chunk.js": "/whos-that-pokemon/static/js/2.d05661ab.chunk.js",
+  "static/js/2.d05661ab.chunk.js.map": "/whos-that-pokemon/static/js/2.d05661ab.chunk.js.map",
+  "index.html": "/whos-that-pokemon/index.html",
+  "precache-manifest.cf6a8f0b9ddc9275fb8a85073818e783.js": "/whos-that-pokemon/precache-manifest.cf6a8f0b9ddc9275fb8a85073818e783.js",
+  "service-worker.js": "/whos-that-pokemon/service-worker.js",
+  "static/css/main.e727babd.chunk.css.map": "/whos-that-pokemon/static/css/main.e727babd.chunk.css.map",
+  "static/media/App.css": "/whos-that-pokemon/static/media/background.58a1af92.png",
+  "static/media/charmander.png": "/whos-that-pokemon/static/media/charmander.bb51e944.png",
+  "static/media/jigglypuff.png": "/whos-that-pokemon/static/media/jigglypuff.c9fd5a4f.png",
+  "static/media/pikachu.png": "/whos-that-pokemon/static/media/pikachu.7b59d5e7.png",
+  "static/media/squirtle.png": "/whos-that-pokemon/static/media/squirtle.b446f9ff.png"
+}
